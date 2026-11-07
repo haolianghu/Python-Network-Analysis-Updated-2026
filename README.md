@@ -1,1 +1,1 @@
-The link to the dataset can be found here: https://visualdata.wustl.edu/varepository/VAST%20Challenge%202013/challenges/MC3%20-%20Big%20Marketing/dataset/MC3dataset.zip
+The link to the dataset can be found here: https://drive.google.com/drive/folders/1JCXQDZDwQQUTmlEZw8xnhaEr5KeXvdqE?usp=sharing
